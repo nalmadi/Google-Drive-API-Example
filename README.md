@@ -23,3 +23,4 @@ pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-
 - https://youtu.be/I5ili_1G0Vk
 - Drive API playlist: https://www.youtube.com/watch?v=9K2P2bWEd90&list=PL3JVwFmb_BnTamTxXbmlwpspYdpmaHdbz&index=1&ab_channel=JieJenn
 - Google Drive API in Python: https://learndataanalysis.org/google-drive-api-in-python-getting-started-lesson-1/
+- Oauth 2.0 Overview: https://youtu.be/CPbvxxslDTU
