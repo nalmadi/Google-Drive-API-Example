@@ -15,7 +15,7 @@ pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-
 - Place your "credentials.json" file at the same directory as your code "quickstart.py"
 - Run the quickstart Python program
 - First time you will be redirected to a webpage to enter your username and password through the OAuth 2.0 window
-- Make sure you add "Credientials.json" and "token.json" to your .gitignore file
+- Make sure you add "credentials.json" and "token.json" to your .gitignore file
 
 # Resources and References:
 - https://developers.google.com/drive/api/quickstart/python
